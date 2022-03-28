@@ -1,0 +1,8 @@
+<x3d><scene>
+    <shape>
+            <torus innerRadius="0.3" outerRadius="1.0"></Torus>
+            <appearance>
+                <pixelTexture image = '2 2 3 0xff000033 0x00ff00aa 0x000fff 0xffff00ff'></pixelTexture>
+            </appearance>
+        </shape>
+</scene></x3d>
